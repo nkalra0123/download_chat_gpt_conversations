@@ -1,3 +1,7 @@
+Prerequisites
+ 1. Install httpie https://httpie.io/
+ 2. Install jq (brew install jq)
+
 Steps to download your conversations from chat gpt
 
 1. Call the conversations API and save the result. This API gives result as a json file, Save the result as result.json
